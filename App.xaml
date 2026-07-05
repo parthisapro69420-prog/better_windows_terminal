@@ -1,0 +1,16 @@
+<Application x:Class="BetterWindowsTerminal.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="TerminalFont">Cascadia Code, Consolas, Courier New</FontFamily>
+        <SolidColorBrush x:Key="GalaxyBg" Color="#000000"/>
+        <SolidColorBrush x:Key="SurfaceBg" Color="#0A0A0A"/>
+        <SolidColorBrush x:Key="TabActiveBg" Color="#141414"/>
+        <SolidColorBrush x:Key="TabInactiveBg" Color="Transparent"/>
+        <SolidColorBrush x:Key="BorderThin" Color="#222222"/>
+        <SolidColorBrush x:Key="AccentGlow" Color="#C084FC"/>
+        <SolidColorBrush x:Key="TextPrimary" Color="#E8E8EC"/>
+        <SolidColorBrush x:Key="TextMuted" Color="#78787E"/>
+    </Application.Resources>
+</Application>
