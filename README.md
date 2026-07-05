@@ -16,7 +16,11 @@ Fully black, minimal UI with animated glowing purple particles and Chrome-style 
 
 ## Demo
 
-<!-- Add your video here -->
+
+
+https://github.com/user-attachments/assets/f1b67848-3668-412c-9f1e-3b936dad7fe8
+
+
 
 ## Build
 
