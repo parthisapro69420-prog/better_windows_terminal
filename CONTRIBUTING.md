@@ -1,6 +1,6 @@
 # Contributing
 
-This project does **not** accept forks or unauthorized copies.
+This project does accept forks.
 
 If you are interested in:
 
@@ -8,11 +8,14 @@ If you are interested in:
 - Collaborating on a feature
 - Building something inspired by this project
 
-You **must** reach out and get explicit permission first.
+You can do a pull request.
 
-## How to request access
+## How to fork full repo and use it in your project
 
 Send an email explaining what you'd like to do and why.
+
+forking any part or repo and using it in a non related/your own project is not allowed.
+
 
 **Email:** parthisapro69420@gmail.com
 
