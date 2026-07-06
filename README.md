@@ -4,6 +4,8 @@ A custom Windows terminal wrapper built with C# and WPF (.NET 8.0).
 
 Fully black, minimal UI with animated glowing purple particles and Chrome-style tabs.
 
+NOTE: THIS PROJECT HAS BEEN ABANDON, THERE IS NO 0.9.0-ALPHA OR ANY FIXES.
+
 ## Features
 
 - Borderless, sleek dark window
